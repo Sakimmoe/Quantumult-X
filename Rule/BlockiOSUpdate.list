@@ -1,4 +1,4 @@
-DOMAIN,gdmf.apple.com
-DOMAIN,mesu.apple.com
-DOMAIN,updates-http.cdn-apple.com
-DOMAIN,xp.apple.com
+HOST,gdmf.apple.com,REJECT
+HOST,mesu.apple.com,REJECT
+HOST,updates-http.cdn-apple.com,REJECT
+HOST,xp.apple.com,REJECT
